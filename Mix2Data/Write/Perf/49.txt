@@ -1,0 +1,20 @@
+
+ Performance counter stats for process id '23192':
+
+        94,810,157      cache-misses                                                
+    24,584,728,655      instructions              #    0.58  insn per cycle         
+    42,703,700,911      cycles                                                      
+        24,227,511      LLC-load-misses                                             
+
+      20.001106112 seconds time elapsed
+
+
+ Performance counter stats for process id '23192':
+
+       100,237,714      cache-misses                                                
+    25,304,256,948      instructions              #    0.57  insn per cycle         
+    44,528,524,922      cycles                                                      
+        24,586,409      LLC-load-misses                                             
+
+      20.001336044 seconds time elapsed
+

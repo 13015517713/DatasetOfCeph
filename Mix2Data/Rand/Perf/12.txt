@@ -1,0 +1,20 @@
+
+ Performance counter stats for process id '4657':
+
+        93,045,562      cache-misses                                                
+    14,669,751,863      instructions              #    0.42  insn per cycle         
+    34,676,734,199      cycles                                                      
+        34,688,635      LLC-load-misses                                             
+
+      20.001309992 seconds time elapsed
+
+
+ Performance counter stats for process id '4657':
+
+        89,351,012      cache-misses                                                
+    14,395,139,774      instructions              #    0.40  insn per cycle         
+    35,767,326,864      cycles                                                      
+        31,896,400      LLC-load-misses                                             
+
+      20.001274587 seconds time elapsed
+

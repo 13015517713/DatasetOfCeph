@@ -1,0 +1,32 @@
+Problems finding threads of monitor
+
+ Usage: perf stat [<options>] [<command>]
+
+    -p, --pid <pid>       stat events on existing process id
+    -t, --tid <tid>       stat events on existing thread id
+Problems finding threads of monitor
+
+ Usage: perf stat [<options>] [<command>]
+
+    -p, --pid <pid>       stat events on existing process id
+    -t, --tid <tid>       stat events on existing thread id
+
+ Performance counter stats for process id '37347':
+
+       104,849,626      cache-misses                                                
+    25,562,212,629      instructions              #    0.57  insn per cycle         
+    44,749,303,158      cycles                                                      
+        25,317,594      LLC-load-misses                                             
+
+      20.001297891 seconds time elapsed
+
+
+ Performance counter stats for process id '37347':
+
+       100,681,133      cache-misses                                                
+    24,867,564,911      instructions              #    0.57  insn per cycle         
+    43,609,252,650      cycles                                                      
+        24,588,095      LLC-load-misses                                             
+
+      20.001332938 seconds time elapsed
+

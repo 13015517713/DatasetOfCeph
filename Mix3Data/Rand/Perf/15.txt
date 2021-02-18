@@ -1,0 +1,20 @@
+
+ Performance counter stats for process id '5474':
+
+        83,975,050      cache-misses                                                
+    12,713,751,082      instructions              #    0.38  insn per cycle         
+    33,590,486,017      cycles                                                      
+        30,904,993      LLC-load-misses                                             
+
+      20.001207330 seconds time elapsed
+
+
+ Performance counter stats for process id '5474':
+
+        94,889,472      cache-misses                                                
+    12,654,261,793      instructions              #    0.38  insn per cycle         
+    33,680,191,547      cycles                                                      
+        31,880,023      LLC-load-misses                                             
+
+      20.001249371 seconds time elapsed
+

@@ -1,0 +1,11 @@
+sh: line 1: --time: command not found
+
+ Performance counter stats for process id '17434':
+
+          39260008      cache-misses                                                
+        8513872237      instructions              #    0.57  insn per cycle         
+       14860568824      cycles                                                      
+          11906714      LLC-load-misses                                             
+
+      20.001036505 seconds time elapsed
+

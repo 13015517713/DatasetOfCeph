@@ -1,0 +1,40 @@
+
+ Performance counter stats for process id '37347':
+
+        93,269,541      cache-misses                                                
+    24,769,092,788      instructions              #    0.57  insn per cycle         
+    43,095,915,432      cycles                                                      
+        26,122,306      LLC-load-misses                                             
+
+      20.001281744 seconds time elapsed
+
+
+ Performance counter stats for process id '37347':
+
+        97,741,515      cache-misses                                                
+    25,013,331,709      instructions              #    0.57  insn per cycle         
+    43,874,289,462      cycles                                                      
+        26,013,959      LLC-load-misses                                             
+
+      20.001287404 seconds time elapsed
+
+
+ Performance counter stats for process id '38600':
+
+        89,821,891      cache-misses                                                
+    23,587,548,458      instructions              #    0.58  insn per cycle         
+    40,570,508,340      cycles                                                      
+        21,797,307      LLC-load-misses                                             
+
+      20.001389342 seconds time elapsed
+
+
+ Performance counter stats for process id '38600':
+
+        92,188,350      cache-misses                                                
+    25,218,344,096      instructions              #    0.58  insn per cycle         
+    43,181,953,268      cycles                                                      
+        23,095,567      LLC-load-misses                                             
+
+      20.001258996 seconds time elapsed
+

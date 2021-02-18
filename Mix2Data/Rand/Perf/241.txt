@@ -1,0 +1,20 @@
+
+ Performance counter stats for process id '38600':
+
+        78,146,169      cache-misses                                                
+    10,318,753,428      instructions              #    0.41  insn per cycle         
+    25,477,995,540      cycles                                                      
+        20,294,043      LLC-load-misses                                             
+
+      20.001280445 seconds time elapsed
+
+
+ Performance counter stats for process id '38600':
+
+        97,411,874      cache-misses                                                
+    13,360,305,570      instructions              #    0.40  insn per cycle         
+    33,450,147,132      cycles                                                      
+        29,582,658      LLC-load-misses                                             
+
+      20.001379013 seconds time elapsed
+

@@ -1,0 +1,20 @@
+
+ Performance counter stats for process id '17434':
+
+        45,134,170      cache-misses                                                
+     8,707,230,452      instructions              #    0.56  insn per cycle         
+    15,644,424,972      cycles                                                      
+        13,904,611      LLC-load-misses                                             
+
+      20.001189668 seconds time elapsed
+
+
+ Performance counter stats for process id '17434':
+
+        49,186,350      cache-misses                                                
+    10,393,690,764      instructions              #    0.58  insn per cycle         
+    17,877,936,585      cycles                                                      
+        15,486,644      LLC-load-misses                                             
+
+      20.001237916 seconds time elapsed
+

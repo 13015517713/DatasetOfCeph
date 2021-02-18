@@ -1,0 +1,20 @@
+
+ Performance counter stats for process id '18005':
+
+        88,517,394      cache-misses                                                
+    11,342,364,606      instructions              #    0.46  insn per cycle         
+    24,416,337,253      cycles                                                      
+        32,983,438      LLC-load-misses                                             
+
+      20.001076769 seconds time elapsed
+
+
+ Performance counter stats for process id '18005':
+
+        89,446,393      cache-misses                                                
+    11,225,996,883      instructions              #    0.46  insn per cycle         
+    24,466,238,969      cycles                                                      
+        33,549,701      LLC-load-misses                                             
+
+      20.001357975 seconds time elapsed
+

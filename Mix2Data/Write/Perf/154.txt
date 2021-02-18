@@ -1,0 +1,20 @@
+
+ Performance counter stats for process id '714':
+
+        97,400,052      cache-misses                                                
+    24,526,788,174      instructions              #    0.56  insn per cycle         
+    43,909,978,301      cycles                                                      
+        23,136,606      LLC-load-misses                                             
+
+      20.001218135 seconds time elapsed
+
+
+ Performance counter stats for process id '714':
+
+        99,055,048      cache-misses                                                
+    24,910,201,553      instructions              #    0.57  insn per cycle         
+    43,742,741,425      cycles                                                      
+        23,556,932      LLC-load-misses                                             
+
+      20.001297546 seconds time elapsed
+
